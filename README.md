@@ -1,5 +1,4 @@
-# Sample-project
-Detect depression from social media data
+# Sample-project :Detect depression from social media data
 
 1. Collect data from social media platform
 
